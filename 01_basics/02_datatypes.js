@@ -12,13 +12,13 @@ console.log(3
    let age = 24
    let isLoggedIn = false
    
-  //number => 2 to power 53
+  //number => 2 ^ 53
   // bigint
-  //string => ""
+  //string => "assembly of characters"
   //boolean => true/false
   //null => standalone value
-  //undefined =>
-  //symbol => unique
+  //undefined = place holder for a value which is not defined yet>
+  //symbol => uniqueness
 
   //object
 
